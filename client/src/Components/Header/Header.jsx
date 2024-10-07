@@ -47,8 +47,8 @@ const Header = () => {
         className="w-screen h-16 bg-darkSecondary shadow-lg flex justify-between items-center px-8 relative"
       >
         {/* Logo */}
-        <div className="text-3xl dark:text-darkAccent hover:text-slate-50 font-bold font-serif">
-          Logo
+        <div className="text-2xl dark:text-darkAccent hover:text-slate-50 font-bold font-serif">
+          Bijay Lama
         </div>
 
         {/* Modile Nav */}
